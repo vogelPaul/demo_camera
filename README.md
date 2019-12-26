@@ -1,3 +1,2 @@
 # demo_camera
-Une demo de l'utilisation de camera pour un programme IONIC
-un demo camera qui marche tres bien
+We are implementing this project as part of the mobile programming course of the ICT Convergence Master program. The project involves developing a mobile application for e-shopping to allow people to sell and buy items (goods) online. We want to develop a program that will be useful after our training for this master degree program, so it was question of what projects many people of different categories are interested in, and we understood that the applications of online purchases and sales are among the applications that interest many people apart from social networks. Our e-commerce mobile app will give clients the freedom to discover their articles or products in a user-friendly format.
