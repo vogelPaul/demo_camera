@@ -14,6 +14,7 @@ import { File } from '@ionic-native/file';
   declarations: [
     MyApp,
     HomePage
+    
   ],
   imports: [
     BrowserModule,
