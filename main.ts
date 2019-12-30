@@ -32,3 +32,7 @@ import { File } from '@ionic-native/file';
   ]
 })
 export class AppModule {}
+
+kashoba adding a new import 
+
+import {qjdskflqjsdmlkfjqsdlmfjqskldfjqlsmkfdjqlsmkfjsqmlkfjsqdlmkdfjqlsmkdj}
